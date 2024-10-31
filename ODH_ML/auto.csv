@@ -1,0 +1,12 @@
+Model,Test Score
+RandomForest,0.72618881
+CatBoost,0.725915229
+XGBoost,0.694792484
+ExtraTrees,0.677806219
+LightGBMLarge,0.673548116
+LightGBMXT,0.652087865
+LightGBM,0.605696709
+KNeighborsDist,0.43181146
+KNeighborsUnif,0.425282583
+NeuralNetFastAI,0.130361774
+NeuralNetTorch,0.045375717
